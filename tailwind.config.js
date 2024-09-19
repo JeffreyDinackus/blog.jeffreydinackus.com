@@ -2,6 +2,8 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
+  darkMode: 'class', // or 'media' if you prefer system-level dark mode
+
   content: [
     './components/**/*.{vue,js}',
     './layouts/**/*.vue',
@@ -10,7 +12,13 @@ module.exports = {
     './nuxt.config.{js,ts}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      transitionProperty: {
+        'bg': 'background-color', // Enable background color transition
+        'colors': 'color, background-color', // Enable transition for text and background
+      },
+    },
   },
+
   plugins: [],
 }
