@@ -20,7 +20,7 @@
   <li>
     <NuxtLink 
       to="/about" 
-      exact-active-class="text-blue-500" 
+      exact-active-class="fcolor" 
       class=" hover:underline"
     >
       About
@@ -29,7 +29,7 @@
   <li>
     <NuxtLink 
       to="/blog" 
-      exact-active-class="text-blue-500" 
+      exact-active-class="fcolor" 
       class=" hover:underline"
     >
       Blog
