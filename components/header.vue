@@ -1,48 +1,39 @@
 <!-- components/Header.vue -->
 <template>
-  <header class="bg-gray-800	 text-white shadow">
-    <nav class="container mx-auto p-4 flex justify-between items-center">
+  <header class="bg-gradient-to-r from-gray-900 to-gray-800 text-white shadow-lg">
+    <nav class="container mx-auto px-4 py-6 flex justify-between items-center">
       <!-- Logo -->
-      <div class="text-xl font-bold">
-        <a class="bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text" href="/">Jeffrey Dinackus' Blog</a>
+      <div class="text-2xl font-extrabold">
+        <NuxtLink to="/" class="bg-gradient-to-r from-blue-400 via-green-400 to-indigo-500 inline-block text-transparent bg-clip-text hover:from-blue-500 hover:via-green-500 hover:to-indigo-600 transition-all duration-300">
+          name Blog
+        </NuxtLink>
       </div>
 
-      <ul class="flex space-x-4">
-  <li>
-    <NuxtLink 
-      to="/" 
-      exact-active-class="fcolor" 
-      class=" hover:underline"
-    >
-      Home
-    </NuxtLink>
-  </li>
-  <li>
-    <NuxtLink 
-      to="/about" 
-      exact-active-class="fcolor" 
-      class=" hover:underline"
-    >
-      About
-    </NuxtLink>
-  </li>
-  <li>
-    <NuxtLink 
-      to="/blog" 
-      exact-active-class="fcolor" 
-      class=" hover:underline"
-    >
-      Blog
-    </NuxtLink>
-  </li>
-</ul>
-
+      <ul class="flex space-x-6">
+        <li v-for="item in menuItems" :key="item.to">
+          <NuxtLink 
+            :to="item.to" 
+            active-class="text-teal-400 font-bold" 
+            class="text-gray-300 hover:text-white hover:underline transition-all duration-200"
+          >
+            {{ item.text }}
+          </NuxtLink>
+        </li>
+      </ul>
     </nav>
   </header>
 </template>
 
 <script setup>
-  // You can manage props or composables if needed here.
+import { text } from 'stream/consumers';
+
+const menuItems = [
+  { to: '/', text: 'Home' },
+  { to: '/about', text: 'About' },
+  { to: '/blog', text: 'Blog' },
+  { to: '/sideprojects', text: 'Side Projects' },
+  
+];
 </script>
 
 <style scoped>

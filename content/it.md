@@ -2,7 +2,7 @@
 title: 'How to get your first job in IT'
 author: 'Jeffrey Dinackus'
 description: 'Advice from someone who became a systems administrator after 1.5 years starting at 0'
-date: ""
+date: "2024-09-16"
 ---
 
 
