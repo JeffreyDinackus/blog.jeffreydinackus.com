@@ -3,7 +3,7 @@
     <div class="container mx-auto px-4 text-center">
       <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold mb-6 leading-tight">
         Hey there, I'm 
-        <span class="bg-gradient-to-r from-blue-400 via-green-400 to-indigo-500 inline-block text-transparent bg-clip-text animate-gradient">name</span>
+        <span class="bg-gradient-to-r from-blue-400 via-green-400 to-indigo-500 inline-block text-transparent bg-clip-text animate-gradient">Jeffrey Dinackus</span>
       </h1>
       
       <p class="text-xl sm:text-2xl text-gray-300 max-w-2xl mx-auto mb-4">
