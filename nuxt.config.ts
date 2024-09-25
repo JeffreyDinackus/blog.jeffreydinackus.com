@@ -8,4 +8,9 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  router: {
+    base: '/'
+  },
+  target: 'static',  // Ensure static site generation
+
 })
