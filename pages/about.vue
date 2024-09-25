@@ -15,7 +15,7 @@
         <div class="bg-gray-800 shadow-md rounded-lg p-6 border-l-4 border-green-500">
           <h2 class="text-2xl font-semibold mb-4 text-gray-100">Technologies I've Worked With</h2>
           <ul class="list-disc list-inside space-y-2 text-gray-300">
-            <li><span class="font-semibold text-gray-100">Frontend:</span> React, Next, HTML, CSS, JS, TailwindCSS, BulmaCSS</li>
+            <li><span class="font-semibold text-gray-100">Frontend:</span> React, Next, Nuxt(Vue), HTML, CSS, JavaScript, TailwindCSS, BulmaCSS. BootstrapCSS</li>
             <li><span class="font-semibold text-gray-100">Backend:</span> Python, Flask, Express, Node, Postgres, cloud (AWS, GCP), Docker, Twilio</li>
           </ul>
         </div>
@@ -26,8 +26,8 @@
             I think these technologies have a bright future and I desire to use them further in the future:
           </p>
           <ul class="list-disc list-inside space-y-2 text-gray-300">
-            <li><span class="font-semibold text-gray-100">Frontend:</span> HTML, CSS, TailwindCSS, Vue/Nuxt, Svelte, Sass</li>
-            <li><span class="font-semibold text-gray-100">Backend:</span> Golang, Docker, GCP (AWS probably too), Postgres, Terraform, Twilio</li>
+            <li><span class="font-semibold text-gray-100">Frontend:</span> HTML, CSS, Client Side JavaScript, TailwindCSS, Vue/Nuxt, Svelte, SASS</li>
+            <li><span class="font-semibold text-gray-100">Backend:</span> Golang, Docker, GCP (AWS probably too), Postgres, Terraform, Twilio, Python</li>
           </ul>
         </div>
 
@@ -38,7 +38,7 @@
               <tbody>
                   
                 <tr class="border-b border-gray-700">
-                  <td class="py-2 px-4 text-gray-400 font-medium">September 2023</td>
+                  <td class="py-2 px-4 text-gray-400 font-medium">September 2024</td>
                   <td class="py-2 px-4 text-gray-300">Built and shipped this blog!</td>
                 </tr>
                 <tr class="border-b border-gray-700">
