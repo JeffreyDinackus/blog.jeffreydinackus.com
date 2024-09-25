@@ -20,8 +20,8 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
-import { useRoute, useAsyncData, queryContent } from '#imports'
+// import { ref, computed } from 'vue'
+// import { useRoute, useAsyncData, queryContent } from '#imports'
 
 const route = useRoute()
 const { data: page } = await useAsyncData(`content-${route.path}`, () => 
