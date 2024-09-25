@@ -42,11 +42,39 @@
                 </tr>
                 <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">Dec 2021</td>
-                  <td class="py-2 px-4 text-gray-300">Did zy</td>
+                  <td class="py-2 px-4 text-gray-300"></td>
+                </tr>
+                                  <tr>
+                  <td class="py-2 px-4 text-gray-400 font-medium">Jan 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned Network+! the start of something great</td>
+                </tr>
+                                  <tr>
+                  <td class="py-2 px-4 text-gray-400 font-medium">March 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned Certified Cloud Practitioner! Became very interested in the cloud for developers especially AWS and GCP</td>
+                </tr>
+                                  <tr>
+                  <td class="py-2 px-4 text-gray-400 font-medium">Febuary 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned CompTIA Linux+ </td>
                 </tr>
                 <tr>
                   <td class="py-2 px-4 text-gray-400 font-medium">January 2023</td>
                   <td class="py-2 px-4 text-gray-300">Attended first hackathon, Hoyahacks 2023, won for our project</td>
+                </tr>
+                                  <tr>
+                  <td class="py-2 px-4 text-gray-400 font-medium">Later in Jan 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned CompTIA A+!</td>
+                </tr>
+                  <tr>
+                  <td class="py-2 px-4 text-gray-400 font-medium">Jan 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned CompTIA Network+! the start of something great</td>
+                </tr>
+                <tr>
+                  <td class="py-2 px-4 text-gray-400 font-medium">August 2022</td>
+                  <td class="py-2 px-4 text-gray-300">Built website for first client by using bootstrap which I learned in 3 days, <a href="https://tcqcpatches.com/" >tcqcpatches.com</a></td>
+                </tr>
+                <tr>
+                  <td class="py-2 px-4 text-gray-400 font-medium">January 2022</td>
+                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennier Robbins book, fell in love with front end development</td>
                 </tr>
               </tbody>
             </table>
