@@ -36,17 +36,137 @@
           <div class="overflow-x-auto">
             <table class="min-w-full table-auto">
               <tbody>
+                  
                 <tr class="border-b border-gray-700">
-                  <td class="py-2 px-4 text-gray-400 font-medium">Jan 2022</td>
-                  <td class="py-2 px-4 text-gray-300">Attend here</td>
+                  <td class="py-2 px-4 text-gray-400 font-medium">September 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Built and shipped this blog!</td>
                 </tr>
                 <tr class="border-b border-gray-700">
-                  <td class="py-2 px-4 text-gray-400 font-medium">Dec 2021</td>
-                  <td class="py-2 px-4 text-gray-300"></td>
+                  <td class="py-2 px-4 text-gray-400 font-medium">September 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Built full stack notetaking app with React, Firebase, and Next Auth</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">July 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Passed Microsoft Applied Skills test, Configure secure access to your workloads using Azure networking
+                  </td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">July 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Earned Microsoft Security, Compliance, and Identity Fundamentals SC 900</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">April 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Earned JNCIS ENT, Juniper Enterprise Routing and Switching certification</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">April 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Earned Azure Fundamentals AZ 900</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">March 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Earned Microsoft 365 Fundamentals MS 900</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">Febuary 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Attended HackFax 2023, where my team and I built Chrome Extension with React and Vite that summarizes Gmails using Chatgpt API</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">Febuary 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Built official website for the NVCC Coding Club <a href="https://nvcc-coding-club.netlify.app/">nvcc-coding-club.netlify.app</a></td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">January 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Architected a alternative way to denote currency using negative numbers, and built a converter in Ruby</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">January 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Started doing leetcode with Ruby, solved around 40 problems in 1 month</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">January 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Attended HoyaHacks 2024, designed, built, and shipped full stack notetaking app with React, Docker, and MongoDB</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">January 2024</td>
+                  <td class="py-2 px-4 text-gray-300">Earned JNCIA Junos</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">November 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Built API with flask, which solves calculus equations</td>
+                </tr>
+                
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">November 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Finished chrome extension started at HackNC, released on Chrome Store</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">November 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Released Emoji Keyboard on Chrome Store, users downloaded the app after launch</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">November 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Attended HackNC, built a chrome extension that changes CSS styles dynamically for colorblind people</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">November 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned Palo Alto PCNSA</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">November 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned Free Code Camp's Responsive Web Design course</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">October 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Scraped first website at Patriothacks 2023</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">October 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Attended PatriotHacks 2023, built a dashboard analyzing safety for students at my university</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">September 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Completed Free Code Camp's Javascript DSA course</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">September 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Accepted offer at Technica Corporation, as a Systems Administrator</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">August 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Completed Cloud Resume challenge using AWS</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">August 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Graduated college with 2 associate degrees in information systems and cloud computing, Magna Cum Laude</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">July 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Started building Python Projects, continued DateEscape and built some investment focused projects</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">June 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Built custom computers using own builds</td>
+                </tr>
+                   
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">May 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Built portfolio website using Bulma CSS: <a href="https://jeffreydinackus.com">jeffreydinackus.com</a></td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">May 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Elected President of the NVCC Coding Club</td>
+                </tr> 
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">May 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned CompTIA Security+</td>
+                </tr>
+                <tr class="border-b border-gray-700">
+                  <td class="py-2 px-4 text-gray-400 font-medium">April 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Earned AWS Solutions Architect Associate. Fell in love with the cloud as a developer</td>
                 </tr>
                                   <tr>
-                  <td class="py-2 px-4 text-gray-400 font-medium">Jan 2023</td>
-                  <td class="py-2 px-4 text-gray-300">Earned Network+! the start of something great</td>
+                  <td class="py-2 px-4 text-gray-400 font-medium">March 2023</td>
+                  <td class="py-2 px-4 text-gray-300">Attended HoyaHacks 2023, built a app that allows users to send automated voice calls and text messages to their phone, one use case being to get out of a date</td>
                 </tr>
                                   <tr>
                   <td class="py-2 px-4 text-gray-400 font-medium">March 2023</td>
