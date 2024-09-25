@@ -27,38 +27,39 @@
 
 <script setup>
 const blogPosts = [
-  {
-    title: "Exploring the Future of Web Development",
-    category: "Tech",
-    date: "September 21, 2024",
-    image: "https://via.placeholder.com/800x600",
-    excerpt: "Dive into the latest trends and technologies shaping the future of web development.",
-    link: "/blog/future-web-dev"
+   {
+    title: "How to get your first job in IT",
+    category: "IT",
+    date: "September 16, 2024",
+    image: "img/it.jpg",
+        excerpt: "A straightforward roadmap to get your first job in IT",
+    link: "/it"
   },
-  {
-    title: "The Art of Crafting User-Friendly Interfaces",
-    category: "Design",
-    date: "September 20, 2024",
-    image: "https://via.placeholder.com/800x600",
-    excerpt: "Learn the principles and best practices for creating intuitive and engaging user interfaces.",
-    link: "/blog/user-friendly-interfaces"
-  },
-  {
-    title: "Mastering JavaScript: Tips and Tricks",
-    category: "Programming",
-    date: "September 19, 2024",
-    image: "https://via.placeholder.com/800x600",
-    excerpt: "Unlock the full potential of JavaScript with these advanced techniques and lesser-known features.",
-    link: "/blog/javascript-mastery"
-  },
+  // {
+  //   title: "The Art of Crafting User-Friendly Interfaces",
+  //   category: "Design",
+  //   date: "September 20, 2024",
+  //   image: "https://via.placeholder.com/800x600",
+  //   excerpt: "Learn the principles and best practices for creating intuitive and engaging user interfaces.",
+  //   link: "/blog/user-friendly-interfaces"
+  // },
+  // {
+  //   title: "Mastering JavaScript: Tips and Tricks",
+  //   category: "Programming",
+  //   date: "September 19, 2024",
+  //   image: "https://via.placeholder.com/800x600",
+  //   excerpt: "Unlock the full potential of JavaScript with these advanced techniques and lesser-known features.",
+  //   link: "/blog/javascript-mastery"
+  // },
   {
     title: "Hello Blog",
     category: "Personal",
     date: "September 18, 2024",
-    image: "https://via.placeholder.com/800x600",
+    image: "/img/blog2.jpeg",
     excerpt: "Welcome to my blog! Here's what you can expect from my future posts and the topics I'll be covering.",
     link: "/hello"
   }
+  
 ];
 </script>
 

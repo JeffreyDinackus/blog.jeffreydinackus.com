@@ -5,7 +5,7 @@
       <!-- Logo -->
       <div class="text-2xl font-extrabold">
         <NuxtLink to="/" class="bg-gradient-to-r from-blue-400 via-green-400 to-indigo-500 inline-block text-transparent bg-clip-text hover:from-blue-500 hover:via-green-500 hover:to-indigo-600 transition-all duration-300">
-          name Blog
+          Jeffrey Dinackus' Blog
         </NuxtLink>
       </div>
 
@@ -25,7 +25,6 @@
 </template>
 
 <script setup>
-import { text } from 'stream/consumers';
 
 const menuItems = [
   { to: '/', text: 'Home' },

@@ -62,7 +62,7 @@ const projectsByYear = reactive({
 const sortedYears = computed(() => {
   return Object.keys(projectsByYear).sort((a, b) => b - a)
 })
-
+  
 const toggleDetails = (project) => {
   project.showDetails = !project.showDetails
 }

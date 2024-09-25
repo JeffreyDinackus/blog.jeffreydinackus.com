@@ -4,8 +4,8 @@
     <div class="container mx-auto px-4">
       <div class="flex flex-col md:flex-row justify-between items-center">
         <p class="text-lg mb-4 md:mb-0">
-          <span class="text-blue-400 font-semibold">*.name.com</span> is by 
-          <span class="bg-gradient-to-r from-blue-400 to-indigo-500 text-transparent bg-clip-text font-bold">name</span>
+          <span class="text-blue-400 font-semibold">*.jeffreydinackus.com</span> is by 
+          <span class="bg-gradient-to-r from-blue-400 to-indigo-500 text-transparent bg-clip-text font-bold">Jeffrey Dinackus</span>
         </p>
         
         <!-- Links -->
@@ -23,8 +23,8 @@
 
 <script setup>
 const socialLinks = [
-  { name: 'GitHub', url: 'https://github.com/yourusername', icon: 'mdi:github' },
-  { name: 'LinkedIn', url: 'https://linkedin.com/in/yourusername', icon: 'mdi:linkedin' },
+  { name: 'GitHub', url: 'https://github.com/jeffreydinackus', icon: 'mdi:github' },
+  { name: 'LinkedIn', url: 'https://www.linkedin.com/in/jeffreydinackus/', icon: 'mdi:linkedin' },
 ]
 </script>
 
