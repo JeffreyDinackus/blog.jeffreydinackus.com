@@ -10,11 +10,11 @@
         </h2>
 
         <ul class="space-y-8">
-          <li v-for="project in projectsByYear[year]" :key="project.title" 
+          <li v-for="project in projectsByYear[year]" :key="project.title"
               class="p-6 border-l-4 shadow-lg bg-gray-800 rounded-lg transform transition duration-300 hover:scale-105"
               :class="[`border-${project.color}-400`]">
             <div class="flex justify-between items-start">
-              <h3 class="text-xl font-semibold mb-2" :class="[`text-${project.color}-400`]">
+              <h3 class="text-xl font-semibold mb-2" :class="[`text-${project.color}-400`]" @click="toggleDetails(project)">
                 {{ project.title }}
               </h3>
               <button @click="toggleDetails(project)" class="text-gray-400 hover:text-white">
