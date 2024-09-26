@@ -194,7 +194,7 @@
                 </tr>
                 <tr>
                   <td class="py-2 px-4 text-gray-400 font-medium">January 2022</td>
-                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennier Robbins book, fell in love with front end development</td>
+                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennifer Robbins book, fell in love with front end development</td>
                 </tr>
               </tbody>
             </table>
