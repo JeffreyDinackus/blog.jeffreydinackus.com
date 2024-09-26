@@ -7,10 +7,5 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {},
     },
-  },
-  router: {
-    base: '/'
-  },
-  target: 'static',  // Ensure static site generation
-
+  }
 })

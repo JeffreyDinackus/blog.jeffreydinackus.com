@@ -40,23 +40,26 @@
 
 const projectsByYear = reactive({
   2024: [
-    { title: "Portfolio Website", color: "teal", description: "A personal portfolio website showcasing my skills, projects, and experience using HTML, CSS, and JavaScript.", technologies: ["HTML", "CSS", "JavaScript"], showDetails: false },
-    { title: "E-commerce Dashboard", color: "teal", description: "Developed an admin dashboard for managing e-commerce orders and inventory using Vue.js and Firebase.", technologies: ["Vue.js", "Firebase"], showDetails: false },
-    { title: "Markdown Blog", color: "teal", description: "Built a markdown-based blog system integrated with Jekyll and Tailwind CSS for styling.", technologies: ["Jekyll", "Markdown", "Tailwind CSS"], showDetails: false },
-    { title: "Weather App", color: "teal", description: "Created a real-time weather app using React.js and OpenWeatherMap API.", technologies: ["React.js", "OpenWeatherMap API"], showDetails: false }
+    { title: "This blog!", color: "", description: "A front end blog using Nuxt and Vue with the goal of establishing more of a developer prescence", technologies: ["HTML", "Nuxt", "TailwindCSS", "CSS", "Hosted on Netlify"], showDetails: false },
+    { title: "Full Stack Notetaking App", color: "", description: "A full stack notetaking app that uses my own notetaking structure I developed to max out certifications in a short amount of time", technologies: ["Next", "React", "TailwindCSS", "JSX/HTML", "Firebase Firestore", "NextAuth", "CSS", "Hosting on Vercel"], showDetails: false },
+    { title: "The official website for the Northern Virginia Coding Club", color: "", description: "Beautiful React website built with BulmaCSS https://nvcc-coding-club.netlify.app/", technologies: ["React", "BulmaCSS", "CSS", "Animate.css", "Hosted on Netlify"], showDetails: false },
+    { title: "My Portfolio Website!", color: "", description: "Static portfolio website using BulmaCSS featuring responsive design and accessability features like media queries and fluid grids, https://jeffreydinackus.com/", technologies: ["Responsive Design", "Accessability", "HTML", "BulmaCSS", "favicon.io icon", "Hosted on GitHub Pages"], showDetails: false },
+    { title: "Email Bot", color: "", description: "A Chrome Extension that readings Gmail emails, feeds the info to chatgpt, and summarizes emails and gives potential responses. Built for HackFax 2024", technologies: ["Chrome LocalStorage API", "Express", "MongoDB", "JavaScript", "Python", "HTML", "CSS", "Vite"], showDetails: false },
+     { title: "Inverse Money", color: "", description: "A alternative way to denote currency using compression and inverse numbers with a calculator built in Ruby", technologies: ["Ruby"], showDetails: false },
+     { title: "The Notes Projects", color: "", description: "A private, self hosted notetaking app that can be hosted in the cloud or on a local network with a web interface. Backs up and injests plaintext. Built for HoyaHacks 2024", technologies: ["MongoDB", "Docker", "React", "Auth0", "JavaScript", "AWS", "Linux", "Git", "HTML/CSS"], showDetails: false },
   ],
   2023: [
-    { title: "Task Manager", color: "blue", description: "Developed a task management application with user authentication and real-time updates.", technologies: ["Node.js", "Express", "MongoDB"], showDetails: false },
-    { title: "Recipe Finder", color: "blue", description: "Built a recipe search engine that allows users to find recipes based on ingredients they have.", technologies: ["React", "Redux", "Spoonacular API"], showDetails: false },
-    { title: "Fitness Tracker", color: "blue", description: "Created a fitness tracking app that monitors daily activities and provides personalized workout plans.", technologies: ["Flutter", "Firebase"], showDetails: false },
-    { title: "Budget Planner", color: "blue", description: "Designed a budget planning tool to help users manage their finances and set savings goals.", technologies: ["Vue.js", "Chart.js"], showDetails: false }
-  ],
-  2022: [
-    { title: "Task Manager", color: "blue", description: "Developed a task management application with user authentication and real-time updates.", technologies: ["Node.js", "Express", "MongoDB"], showDetails: false },
-    { title: "Recipe Finder", color: "blue", description: "Built a recipe search engine that allows users to find recipes based on ingredients they have.", technologies: ["React", "Redux", "Spoonacular API"], showDetails: false },
-    { title: "Fitness Tracker", color: "blue", description: "Created a fitness tracking app that monitors daily activities and provides personalized workout plans.", technologies: ["Flutter", "Firebase"], showDetails: false },
-    { title: "Budget Planner", color: "blue", description: "Designed a budget planning tool to help users manage their finances and set savings goals.", technologies: ["Vue.js", "Chart.js"], showDetails: false }
-  ]
+  { title: "SafeWalk", color: "blue", description: "Interactive dashboard built with data scrapped from college website provides analytics about safety to students", technologies: ["AWS", "ChatGPT API", "Python", "Flask", "JavaScript", "Linux", "Bootstrap"], showDetails: false },
+  { title: "Cloud Resume Challenge", color: "blue", description: "Online resume built with AWS based page counter using AWS API Gateway, AWS Lambda, AWS CloudFront, AWS CloudFormation, CI/CD with AWS CodePipeline, and AWS DynamoDB", technologies: ["AWS", "HTML", "JavaScript"], showDetails: false },
+  { title: "DateEscape", color: "blue", description: "Program allows users to send themself preset phone calls and text messages using Twilio, potentially to get out of a date", technologies: ["AWS", "Python", "Twilio"], showDetails: false },
+  { title: "Home Network", color: "blue", description: "Home network featuring perfect uptime and coverage due to mesh network. Multiple servers and raspberry pi's acting as PiHole, Plex, Jellyfin, and Graylog", technologies: ["Docker", "Raspberry Pi", "Ubuntu"], showDetails: false },
+    { title: "Easy Asset Allocation Calc", color: "blue", description: "Python Ttinkter GUI app and CLI app allow investors to easy calculate, back up, and track their asset allocations using simple question and answer format", technologies: ["Python", "Ttinkter"], showDetails: false },
+    
+  { title: "Math API", color: "blue", description: "A clone of Vercel's Newton built in Flask with 90% of the functions. Solves calculus", technologies: ["Sympy", "Flask", "Python"], showDetails: false },
+  { title: "BeIT.tech", color: "blue", description: "Winning hackathon project for HoyaHacks 2023. IT focused job board that issues NFT's to users who complete jobs", technologies: ["Verbwire API", "AWS", "Python", "Flask", "HTML/CSS","Bootstrap"], showDetails: false },
+    { title: "Custom Built Computers", color: "blue", description: "Custom budget PC's built fulfilling preformance needs and budget requirements", technologies: ["AMD", "GigaByte", "Corsair", "Fractal Designs"], showDetails: false },
+
+],
 })
 
 const sortedYears = computed(() => {

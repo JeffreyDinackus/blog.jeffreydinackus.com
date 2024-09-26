@@ -15,7 +15,7 @@
         <div class="bg-gray-800 shadow-md rounded-lg p-6 border-l-4 border-green-500">
           <h2 class="text-2xl font-semibold mb-4 text-gray-100">Technologies I've Worked With</h2>
           <ul class="list-disc list-inside space-y-2 text-gray-300">
-            <li><span class="font-semibold text-gray-100">Frontend:</span> React, Next, HTML, CSS, JS, TailwindCSS, BulmaCSS</li>
+            <li><span class="font-semibold text-gray-100">Frontend:</span> React, Next, Nuxt(Vue), HTML, CSS, JavaScript, TailwindCSS, BulmaCSS. BootstrapCSS</li>
             <li><span class="font-semibold text-gray-100">Backend:</span> Python, Flask, Express, Node, Postgres, cloud (AWS, GCP), Docker, Twilio</li>
           </ul>
         </div>
@@ -26,8 +26,8 @@
             I think these technologies have a bright future and I desire to use them further in the future:
           </p>
           <ul class="list-disc list-inside space-y-2 text-gray-300">
-            <li><span class="font-semibold text-gray-100">Frontend:</span> HTML, CSS, TailwindCSS, Vue/Nuxt, Svelte, Sass</li>
-            <li><span class="font-semibold text-gray-100">Backend:</span> Golang, Docker, GCP (AWS probably too), Postgres, Terraform, Twilio</li>
+            <li><span class="font-semibold text-gray-100">Frontend:</span> HTML, CSS, Client Side JavaScript, TailwindCSS, Vue/Nuxt, Svelte, SASS</li>
+            <li><span class="font-semibold text-gray-100">Backend:</span> Golang, Docker, GCP (AWS probably too), Postgres, Terraform, Twilio, Python(for data science / math / academia, less viable for web dev)</li>
           </ul>
         </div>
 
@@ -38,7 +38,7 @@
               <tbody>
                   
                 <tr class="border-b border-gray-700">
-                  <td class="py-2 px-4 text-gray-400 font-medium">September 2023</td>
+                  <td class="py-2 px-4 text-gray-400 font-medium">September 2024</td>
                   <td class="py-2 px-4 text-gray-300">Built and shipped this blog!</td>
                 </tr>
                 <tr class="border-b border-gray-700">
@@ -164,37 +164,37 @@
                   <td class="py-2 px-4 text-gray-400 font-medium">April 2023</td>
                   <td class="py-2 px-4 text-gray-300">Earned AWS Solutions Architect Associate. Fell in love with the cloud as a developer</td>
                 </tr>
-                                  <tr>
+                <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">March 2023</td>
                   <td class="py-2 px-4 text-gray-300">Attended HoyaHacks 2023, built a app that allows users to send automated voice calls and text messages to their phone, one use case being to get out of a date</td>
                 </tr>
-                                  <tr>
+                <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">March 2023</td>
                   <td class="py-2 px-4 text-gray-300">Earned Certified Cloud Practitioner! Became very interested in the cloud for developers especially AWS and GCP</td>
                 </tr>
-                                  <tr>
+                <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">Febuary 2023</td>
                   <td class="py-2 px-4 text-gray-300">Earned CompTIA Linux+ </td>
                 </tr>
-                <tr>
+                <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">January 2023</td>
                   <td class="py-2 px-4 text-gray-300">Attended first hackathon, Hoyahacks 2023, won for our project</td>
                 </tr>
-                                  <tr>
+                <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">Later in Jan 2023</td>
                   <td class="py-2 px-4 text-gray-300">Earned CompTIA A+!</td>
                 </tr>
-                  <tr>
+                <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">Jan 2023</td>
                   <td class="py-2 px-4 text-gray-300">Earned CompTIA Network+! the start of something great</td>
                 </tr>
-                <tr>
+                <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">August 2022</td>
                   <td class="py-2 px-4 text-gray-300">Built website for first client by using bootstrap which I learned in 3 days, <a href="https://tcqcpatches.com/" >tcqcpatches.com</a></td>
                 </tr>
-                <tr>
+                <tr class="">
                   <td class="py-2 px-4 text-gray-400 font-medium">January 2022</td>
-                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennier Robbins book, fell in love with front end development</td>
+                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennifer Robbins book, Learning Web Design 5th Edition, fell in love with front end development</td>
                 </tr>
               </tbody>
             </table>

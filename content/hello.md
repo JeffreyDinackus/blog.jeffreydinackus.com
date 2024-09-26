@@ -16,7 +16,7 @@ Nuxt/Vue
 
 Tailwind
 
-Hosting at Github pages
+Hosting at Netlify
 
 Nuxt Plugins:
 

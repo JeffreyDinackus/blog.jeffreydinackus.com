@@ -10,7 +10,7 @@
          I'm a front end and full stack developer, christian, travel enthusiast, and finance nerd.
       </p>
       <p class="text-xl sm:text-2xl text-gray-300 max-w-2xl mx-auto">
-        Currently, I'm working as 
+        Currently, I'm working as a 
         <span class="font-semibold text-blue-400">systems&nbsp;administrator</span> at 
         <a href="https://technicacorp.com/" class="font-semibold text-green-400 hover:underline">
           Technica&nbsp;Corporation</a> where I manage enterprise systems.
