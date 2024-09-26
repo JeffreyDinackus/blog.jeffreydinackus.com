@@ -27,7 +27,7 @@
           </p>
           <ul class="list-disc list-inside space-y-2 text-gray-300">
             <li><span class="font-semibold text-gray-100">Frontend:</span> HTML, CSS, Client Side JavaScript, TailwindCSS, Vue/Nuxt, Svelte, SASS</li>
-            <li><span class="font-semibold text-gray-100">Backend:</span> Golang, Docker, GCP (AWS probably too), Postgres, Terraform, Twilio, Python</li>
+            <li><span class="font-semibold text-gray-100">Backend:</span> Golang, Docker, GCP (AWS probably too), Postgres, Terraform, Twilio, Python(for data science / math / academia, less viable for web dev)</li>
           </ul>
         </div>
 
@@ -194,7 +194,7 @@
                 </tr>
                 <tr class="border-b border-gray-700">
                   <td class="py-2 px-4 text-gray-400 font-medium">January 2022</td>
-                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennier Robbins book, fell in love with front end development</td>
+                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennifer Robbins book, fell in love with front end development</td>
                 </tr>
               </tbody>
             </table>
