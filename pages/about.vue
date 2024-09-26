@@ -27,7 +27,7 @@
           </p>
           <ul class="list-disc list-inside space-y-2 text-gray-300">
             <li><span class="font-semibold text-gray-100">Frontend:</span> HTML, CSS, Client Side JavaScript, TailwindCSS, Vue/Nuxt, Svelte, SASS</li>
-            <li><span class="font-semibold text-gray-100">Backend:</span> Golang, Docker, GCP (AWS probably too), Postgres, Terraform, Twilio, Python</li>
+            <li><span class="font-semibold text-gray-100">Backend:</span> Golang, Docker, GCP (AWS probably too), Postgres, Terraform, Twilio, Python(for data science / math / academia, less viable for web dev)</li>
           </ul>
         </div>
 
