@@ -192,9 +192,9 @@
                   <td class="py-2 px-4 text-gray-400 font-medium">August 2022</td>
                   <td class="py-2 px-4 text-gray-300">Built website for first client by using bootstrap which I learned in 3 days, <a href="https://tcqcpatches.com/" >tcqcpatches.com</a></td>
                 </tr>
-                <tr class="border-b border-gray-700">
+                <tr class="">
                   <td class="py-2 px-4 text-gray-400 font-medium">January 2022</td>
-                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennifer Robbins book, fell in love with front end development</td>
+                  <td class="py-2 px-4 text-gray-300">Learned HTML and CSS using Jennifer Robbins book, Learning Web Design 5th Edition, fell in love with front end development</td>
                 </tr>
               </tbody>
             </table>
