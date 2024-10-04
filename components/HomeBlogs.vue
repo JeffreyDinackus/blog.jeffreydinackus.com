@@ -27,6 +27,14 @@
 
 <script setup>
 const blogPosts = [
+{
+    title: "Search Operator's you can Actually Use",
+    category: "Tech",
+    date: "October 4, 2024",
+    image: "img/searchoperators.jpeg",
+    excerpt: "Title says it all. Learn how to use search operators to improve your search results.",
+    link: "/searchoperators"
+  },
   {
     title: "How to get your first job in IT",
     category: "IT",
@@ -35,14 +43,7 @@ const blogPosts = [
     excerpt: "A straightforward roadmap to get your first job in IT",
     link: "/it"
   },
-  // {
-  //   title: "The Art of Crafting User-Friendly Interfaces",
-  //   category: "Design",
-  //   date: "September 20, 2024",
-  //   image: "https://via.placeholder.com/800x600",
-  //   excerpt: "Learn the principles and best practices for creating intuitive and engaging user interfaces.",
-  //   link: "/blog/user-friendly-interfaces"
-  // },
+ 
   // {
   //   title: "Mastering JavaScript: Tips and Tricks",
   //   category: "Programming",
@@ -51,14 +52,7 @@ const blogPosts = [
   //   excerpt: "Unlock the full potential of JavaScript with these advanced techniques and lesser-known features.",
   //   link: "/blog/javascript-mastery"
   // },
-  {
-    title: "Hello Blog",
-    category: "Personal",
-    date: "September 24, 2024",
-    image: "img/blog2.jpeg",
-    excerpt: "Welcome to my blog",
-    link: "/hello"
-  }
+  
 ];
 </script>
 
