@@ -1,3 +1,9 @@
+---
+author: 'Jeffrey Dinackus'
+
+date: "2024-10-01"
+---
+
 I’m keeping this short and sweet so it’s usable. 
 
 If you need to filter results to a specific website use this:

@@ -1,4 +1,6 @@
 ---
+author: 'Jeffrey Dinackus'
+
 date: "2024-09-16"
 
 ---
