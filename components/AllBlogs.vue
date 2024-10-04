@@ -28,7 +28,7 @@
 <script setup>
 const blogPosts = [
 {
-    title: "Search operators you can actually Use",
+    title: "Search operators you can actually use",
     category: "Tech",
     date: "October 4, 2024",
     image: "img/searchoperators.jpeg",
