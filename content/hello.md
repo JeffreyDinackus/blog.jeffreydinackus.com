@@ -1,6 +1,5 @@
 ---
 author: 'Jeffrey Dinackus'
-title: "Search operators you can actually use"
 date: "2024-09-16"
 
 ---
