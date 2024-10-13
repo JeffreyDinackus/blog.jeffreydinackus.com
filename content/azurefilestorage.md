@@ -16,6 +16,8 @@ Through the combination of Azure's student plan and Azure file shares, I have fr
 
 Remember! Copilot for Azure is here to help! I created a file share with no storage account and got a error, but Copilot assisted with interpreting the error message
 
+Before we start: post 445 SMB is blocked on some work computers, college campuses (mayhaps) and ISP connections, your milage may vary 
+
 Sign up for Azure student plan and create a account
 
 [https://azure.microsoft.com/en-us/free/students](https://azure.microsoft.com/en-us/free/students)
@@ -30,7 +32,7 @@ For windows, they literally give you a powershell command to run in administrato
 
 Then, enter the share name into the file explorer path (windows). It is in the command they give you and starts with backslash backslash and then the name of your share with some stuff on the end. (I am using markdown and backslash is reserved, sorry!)
 
-For windows, I reccomend pinning the share to quick links. 
+For windows, I reccomend pinning the folder in your share (not the share, it must have the name of your file share after the name of the share or else you'll get a rejected connecion) to quick links. 
 
 And that's basically it. 
 
