@@ -27,6 +27,14 @@
 
 <script setup>
 const blogPosts = [
+    {
+    title: "Reflections on Patriothacks 2024",
+    category: "IT",
+    date: "October 12th, 2024",
+      image: "img/patriothacks2024.jpg",
+    excerpt: "Life changing experience at Patriothacks 2024. Read about my journey and the lessons I learned.",
+    link: "/patriothacks2024"
+  },
 {
   title: "Search operators you can actually use",
   category: "Tech",
@@ -35,14 +43,14 @@ const blogPosts = [
     excerpt: "Title says it all. Learn how to use search operators to improve your search results.",
     link: "/searchoperators"
   },
-  {
-    title: "How to get your first job in IT",
-    category: "IT",
-    date: "September 16, 2024",
-    image: "img/it.jpg",
-    excerpt: "A straightforward roadmap to get your first job in IT",
-    link: "/it"
-  },
+  // {
+  //   title: "How to get your first job in IT",
+  //   category: "IT",
+  //   date: "September 16, 2024",
+  //   image: "img/it.jpg",
+  //   excerpt: "A straightforward roadmap to get your first job in IT",
+  //   link: "/it"
+  // },
  
   // {
   //   title: "Mastering JavaScript: Tips and Tricks",

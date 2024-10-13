@@ -27,6 +27,14 @@
 
 <script setup>
 const blogPosts = [
+   {
+    title: "Reflections on Patriothacks 2024",
+    category: "IT",
+    date: "October 12th, 2024",
+      image: "img/patriothacks2024.jpg",
+    excerpt: "Life changing experience at Patriothacks 2024. Read about my journey and the lessons I learned.",
+    link: "/patriothacks2024"
+  },
 {
     title: "Search operators you can actually use",
     category: "Tech",
