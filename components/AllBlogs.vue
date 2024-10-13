@@ -27,6 +27,14 @@
 
 <script setup>
 const blogPosts = [
+  {
+    title: "Free Cloud Storage for Students with Azure",
+    category: "Cloud",
+    date: "October 13th, 2024",
+      image: "img/azurefilestore.jpeg",
+    excerpt: "Want free cloud store? You've come to the right place. ",
+    link: "/azurefilestorage"
+  },
    {
     title: "Reflections on Patriothacks 2024",
     category: "Cloud",

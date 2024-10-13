@@ -86,7 +86,7 @@ So for example, if I am working in a medical company like astrazentica, I should
 
 For me:
 
-Finance + software engineer 
+Finance / Personal Finance + software engineer 
 
 Academia + software engineering
 
@@ -95,6 +95,10 @@ Theology + software engineering
 Math + software engineering
 
 (Cloud) Solutions Architecture + software engineering
+
+IT + software engineering
+
+Networking + software engineering
 
 Be passionate about what you do and the desired outcome, like saving lives, preventing the building from falling over, they will only give you more opportunities and promote you. Networking 
 
@@ -118,9 +122,6 @@ If your data is crap, your model will be too. AI doesn't let you somehow get aro
 
 This is basically verbatim what one speaker said: Stop looking at insta and watch developer videos and become passionate, learn something new every week. Pick a lane, don't go wide. Go deep. 
 
-
-
-Find friends who are smarter than you. Sharpen steel with steel. Do not be the smartest person in your group. Build yourself a network of friends who are smarter than you 
 
 Some other surces they mentioned: 
 

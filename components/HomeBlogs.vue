@@ -35,14 +35,22 @@ const blogPosts = [
     excerpt: "Life changing experience at Patriothacks 2024. Read about my journey and the lessons I learned.",
     link: "/patriothacks2024"
   },
-{
-  title: "Search operators you can actually use",
-  category: "Tech",
-    date: "October 4, 2024",
-    image: "img/searchoperators.jpeg",
-    excerpt: "Title says it all. Learn how to use search operators to improve your search results.",
-    link: "/searchoperators"
+  {
+    title: "Free Cloud Storage for Students with Azure",
+    category: "Cloud",
+    date: "October 13th, 2024",
+      image: "img/azurefilestore.jpeg",
+    excerpt: "Want free cloud store? You've come to the right place. ",
+    link: "/azurefilestorage"
   },
+// {
+//   title: "Search operators you can actually use",
+//   category: "Tech",
+//     date: "October 4, 2024",
+//     image: "img/searchoperators.jpeg",
+//     excerpt: "Title says it all. Learn how to use search operators to improve your search results.",
+//     link: "/searchoperators"
+//   },
   // {
   //   title: "How to get your first job in IT",
   //   category: "IT",
