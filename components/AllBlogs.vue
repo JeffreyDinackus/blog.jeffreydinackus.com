@@ -29,7 +29,7 @@
 const blogPosts = [
    {
     title: "Reflections on Patriothacks 2024",
-    category: "IT",
+    category: "Cloud",
     date: "October 12th, 2024",
       image: "img/patriothacks2024.jpg",
     excerpt: "Life changing experience at Patriothacks 2024. Read about my journey and the lessons I learned.",
